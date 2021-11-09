@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ljdn
-- 👀 I’m interested in the intersections of tech and education / global health
+- 👀 I’m interested in the intersections of tech and education and/or global health
 - 🌱 I’m currently learning Flask
 
 <!---
